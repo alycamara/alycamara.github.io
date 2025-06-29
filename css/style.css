@@ -705,3 +705,84 @@ p {
     margin-left: 10px;
   }
 }
+
+.missions-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Espacement entre les missions */
+}
+
+.mission {
+  border: 1px solid #ddd; /* Bordure pour chaque mission */
+  padding: 15px;
+  background-color: #f9f9f9; /* Couleur de fond */
+  border-radius: 5px; /* Coins arrondis */
+}
+
+.mission h3 {
+  margin-bottom: 10px;
+  color: #333; /* Couleur du titre */
+}
+
+.mission p {
+  margin: 5px 0;
+  color: #555; /* Couleur du texte */
+}
+
+.formations-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Espacement entre les formations */
+}
+
+.formation {
+  border: 1px solid #ddd; /* Bordure pour chaque formation */
+  padding: 15px;
+  background-color: #f9f9f9; /* Couleur de fond */
+  border-radius: 5px; /* Coins arrondis */
+  display: flex;
+  align-items: center;
+  gap: 15px; /* Espacement entre l'image et le texte */
+}
+
+.formation-img {
+  width: 100px; /* Taille de l'image */
+  height: auto;
+  border-radius: 5px; /* Coins arrondis pour l'image */
+}
+.competences-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px; /* Espacement entre les catégories */
+}
+
+.categorie h3 {
+  margin-bottom: 15px;
+  color: #333; /* Couleur du titre */
+}
+
+.competences-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 colonnes */
+  gap: 20px; /* Espacement entre les colonnes */
+}
+
+.competence span {
+  display: block;
+  margin-bottom: 5px;
+  color: #555; /* Couleur du texte */
+}
+
+.progress-bar {
+  background-color: #ddd; /* Couleur de fond de la barre */
+  border-radius: 5px;
+  height: 10px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.progress {
+  background-color: #2879ff; /* Couleur de la progression */
+  height: 100%;
+  border-radius: 5px;
+}
