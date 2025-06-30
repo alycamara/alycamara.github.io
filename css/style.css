@@ -786,3 +786,12 @@ p {
   height: 100%;
   border-radius: 5px;
 }
+ul {
+  list-style-type: disc; /* Affiche les puces par défaut */
+  margin-left: 20px; /* Ajoute une marge pour l'indentation */
+}
+
+strong {
+  font-weight: bold;
+  color: black;
+}

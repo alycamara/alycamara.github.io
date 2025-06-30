@@ -14,7 +14,7 @@
 
     {
         "name": "Ingénieur Automaticien – QA et Tests automatisés",
-        "url": "https://github.com/vedic-lang/vedic",
+        "url": "#mission_poste",
 
         "description": "Avril 2022 - ",
         "banner": "assets/entreprises/poste.png",
@@ -27,7 +27,7 @@
     },
     {
         "name": "Ingénieur Etude et Développement",
-        "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
+        "url": "#mission_renault",
         "description": "Juillet 2019 - Mars 2022",
         "banner": "assets/entreprises/renault.jpg",
         "color": "#f1e05a",
@@ -39,7 +39,7 @@
     },
     {
         "name": "Développeur Web Java / Angular",
-        "url": "https://github.com/PtPrashantTripathi/PortfolioTracker",
+        "url": "#mission_sii",
         "description": " Octobre 2018 - Juin 2019",
         "banner": "assets/entreprises/sii.png",
         "color": "#0080ff",
@@ -51,7 +51,7 @@
     },
     {
         "name": "Développeur web front-end",
-        "url": "https://github.com/PtPrashantTripathi/IPL-2020-Prediction",
+        "url": "#mission_bnp",
         "description": "Juillet 2017 - Octobre 2017",
         "banner": "assets/entreprises/bnp.png",
         "color": " #008000",
@@ -62,8 +62,8 @@
         "generatedOn": "2025-06-01 02:10:58.747646"
     },
     {
-        "name": "Ingénieur développement Java/J2EEe",
-        "url": "https://github.com/PtPrashantTripathi/linkpe",
+        "name": "Ingénieur développement Java/J2EE",
+        "url": "#mission_banque_de_france",
         "description": "Janvier 2016 - Mai 2017",
         "banner": "assets/entreprises/banquedefrance.png",
         "color": "#0000FF",
@@ -74,13 +74,37 @@
         "generatedOn": "2026-01-01 02:10:58.747646"
     },
     {
-        "name": "Chargé de conception et du développement d’une application web AngularJS /REST",
-        "url": "https://github.com/PtPrashantTripathi/movieinfo",
+        "name": "Stage de fin d’études : Chargé de conception et développement d’une application web (AngularJS / REST)",
+        "url": "#mission_orange",
         "description": "Mars 2015 - Septembre 2015",
         "banner": "assets/entreprises/orange.png",
         "color": "#e34c26",
-        "lang": "Java, Swagger, AngularJs, SoapUI, Jaxrs, Spring MVC, Maven, HTML, CSS, Bootstrap, SPRING MVC",
+        "lang": "Java, Swagger, AngularJs, Spring MVC, Maven, HTML, CSS, Bootstrap, SPRING MVC",
         "date": "2015-03-06T10:02:13Z",
+        "stars": 0,
+        "forks": 0,
+        "generatedOn": "2025-06-01 02:10:58.747646"
+    },
+    {
+        "name": "Stage de trois mois : Développeur d’applications mobiles Android",
+        "url": "#mission_adveez",
+        "description": "Juin 2014 - Aout 2014",
+        "banner": "assets/entreprises/adveez.png",
+        "color": "#112a4a",
+        "lang": "Java, SDK Android",
+        "date": "2014-06-06T10:02:13Z",
+        "stars": 0,
+        "forks": 0,
+        "generatedOn": "2025-06-01 02:10:58.747646"
+    },
+    {
+        "name": "Stage de trois mois : Développeur d’applications web Java/J2EE",
+        "url": "#mission_orinox",
+        "description": "Juillet 2013 - Septembre 2013",
+        "banner": "assets/entreprises/orinox.jpg",
+        "color": "#77b5fe",
+        "lang": "Java, J2EE",
+        "date": "2013-07-06T10:02:13Z",
         "stars": 0,
         "forks": 0,
         "generatedOn": "2025-06-01 02:10:58.747646"
